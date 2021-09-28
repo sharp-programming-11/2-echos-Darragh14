@@ -15,11 +15,12 @@ $my_float = 13.0;
     <title>Echos</title>
  <link rel="stylesheet" href="style.css">
   </head>
-  <body id="No1">
+  <body id="No3">
 
-<a href="page2.php">Page 2</a>
-<a href="page3.php">Page 3</a>
-<a href="page4.php">Page 4</a>
+    <a href="index.php">Index Page</a>
+    <a href="page2.php">Page 2</a>
+    <a href="page4.php">Page 4</a>
+
 
 
 </body>
